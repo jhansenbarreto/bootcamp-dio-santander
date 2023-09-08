@@ -9,5 +9,6 @@ O repositório conta com os seguintes projetos:
 
 - Desafios de Projeto
   - <a href=https://github.com/jhansenbarreto/bootcamp-dio-santander/tree/master/DesafioControleFluxo>Controle de Fluxo</a>
+  - <a href=https://github.com/jhansenbarreto/bootcamp-dio-santander/tree/master/pokedex>Controle de Fluxo</a>
 
 Obrigado a <a href=https://www.dio.me/>Digital Innovation One (DIO)</a> pela oportunidade e ao Banco Santander pelo conhecimento compartilhado. :v::grin:
