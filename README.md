@@ -11,5 +11,6 @@ O repositório conta com os seguintes projetos:
   - <a href=https://github.com/jhansenbarreto/bootcamp-dio-santander/tree/master/DesafioControleFluxo>Controle de Fluxo</a>
   - <a href=https://github.com/jhansenbarreto/bootcamp-dio-santander/tree/master/pokedex>Pokédex com JavaScript</a>
   - <a href=https://github.com/jhansenbarreto/bootcamp-dio-santander/tree/master/Desafio-iPhone>Diagramação de Classes do iPhone</a>
+  - <a href=https://github.com/jhansenbarreto/bootcamp-dio-santander/tree/master/angular-blog>Criando um Blog com Angular</a>
 
 Obrigado a <a href=https://www.dio.me/>Digital Innovation One (DIO)</a> pela oportunidade e ao Banco Santander pelo conhecimento compartilhado. :v::grin:
