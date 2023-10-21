@@ -8,9 +8,13 @@
 O repositório conta com os seguintes projetos:
 
 - Desafios de Projeto
-  - <a href=https://github.com/jhansenbarreto/bootcamp-dio-santander/tree/master/DesafioControleFluxo>Controle de Fluxo</a>
-  - <a href=https://github.com/jhansenbarreto/bootcamp-dio-santander/tree/master/pokedex>Pokédex com JavaScript</a>
-  - <a href=https://github.com/jhansenbarreto/bootcamp-dio-santander/tree/master/Desafio-iPhone>Diagramação de Classes do iPhone</a>
+  - <a href=https://github.com/jhansenbarreto/bootcamp-dio-santander/tree/master/pokedex>Construindo uma Pokédex com JavaScript</a>
+    - Deploy (Vercel): acesse e teste a aplicação clicando <a href=https://bootcamp-dio-santander.vercel.app/>aqui</a>
   - <a href=https://github.com/jhansenbarreto/bootcamp-dio-santander/tree/master/angular-blog>Criando um Blog com Angular</a>
+  - <a href=https://github.com/jhansenbarreto/bootcamp-dio-santander/tree/master/virtual-store>Recriando a Interface da PlayStation Store com Angular</a>
+  - <a href=https://github.com/jhansenbarreto/bootcamp-dio-santander/tree/master/DesafioControleFluxo>Criando Um Pequeno Sistema Para Validação de Processo Seletivo</a>
+  - <a href=https://github.com/jhansenbarreto/bootcamp-dio-santander/tree/master/Desafio-iPhone>Diagramação de Classes do iPhone</a>
+  - <a href=https://github.com/jhansenbarreto/pessoa-endereco>Publicando Sua API REST na Nuvem Usando Spring Boot 3, Java 17 e Railway</a>
+    - Deploy (Railway): acesse e teste a aplicação clicando <a href=https://pessoa-endereco.up.railway.app/swagger-ui/index.html>aqui</a>
 
 Obrigado a <a href=https://www.dio.me/>Digital Innovation One (DIO)</a> pela oportunidade e ao Banco Santander pelo conhecimento compartilhado. :v::grin:
